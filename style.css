@@ -1,0 +1,60 @@
+/* Estilos gerais para o corpo */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+/* Estilo para a seção de notícias */
+#noticias {
+    background-color: #f0f8ff; /* Azul claro */
+    padding: 20px;
+    margin: 10px 0;
+}
+
+#noticias ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#noticias li {
+    padding: 8px 0;
+}
+
+/* Estilo para a seção de entretenimento */
+#entretenimento {
+    background-color: #ffebcd; /* Cor bege clara */
+    padding: 20px;
+    margin: 10px 0;
+}
+
+#entretenimento ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#entretenimento li {
+    padding: 8px 0;
+}
+
+/* Estilo para a seção de tecnologia */
+#tecnologia {
+    background-color: #e0ffff; /* Azul esverdeado claro */
+    padding: 20px;
+    margin: 10px 0;
+}
+
+#tecnologia ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#tecnologia li {
+    padding: 8px 0;
+}
